@@ -1,0 +1,23 @@
+.App{padding:0 80px; box-sizing: border-box;
+    
+    h1{text-align: center;}
+    .movie{
+        display: flex; 
+        align-items: center; 
+        border: 1px solid #ddd; 
+        justify-content: space-between; 
+        padding: 7px; 
+        margin-bottom: 10px;
+
+        .movie-title{flex-grow: 1; font-weight: 600;}
+        .movie-year{font-size: 13px; color: rgb(255, 94, 0);}
+        .deleteBtn button{border: none; background: #686868; color: #ffffff; border-radius: 10px; padding: 5px 8px; margin-bottom: 0;}
+    }
+    form{   
+        input{width: 100%; border: 1px solid #ddd; margin-bottom: 5px; padding: 7px; box-sizing: border-box;}
+        button{width: 100%; border: none; background: #00179b; color: #fff; padding: 7px; box-sizing: border-box; margin-bottom: 30px;}
+        .errText{color: #f00; font-size: 12px; margin-bottom: 5px;}
+    }
+    .addText{font-size: 15px; color: #929292;}
+   
+}
