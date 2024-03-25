@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/restAPI/static/css/main.c660a3dc.css",
+    "main.js": "/restAPI/static/js/main.148dfa4f.js",
+    "static/js/453.a6a97343.chunk.js": "/restAPI/static/js/453.a6a97343.chunk.js",
+    "index.html": "/restAPI/index.html",
+    "main.c660a3dc.css.map": "/restAPI/static/css/main.c660a3dc.css.map",
+    "main.148dfa4f.js.map": "/restAPI/static/js/main.148dfa4f.js.map",
+    "453.a6a97343.chunk.js.map": "/restAPI/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c660a3dc.css",
+    "static/js/main.148dfa4f.js"
+  ]
+}
